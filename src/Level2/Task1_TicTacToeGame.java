@@ -11,7 +11,7 @@ public class Task1_TicTacToeGame {
 			}
 		}
 		int cho=0;
-		boardDisplay();
+		//boardDisplay();
 		while(cho<9) {
 			
 			
